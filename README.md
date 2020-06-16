@@ -28,7 +28,8 @@ In this case study I have tried different experiments with different models that
 
 
 Both the .h5 files are also available on google drive link below:
-model-00023-0.06841-0.98962-0.32275-0.91667.h5::  : https://drive.google.com/open?id=1N5nmzW6bzbVtClFT2S5azw1ucOUQpwTq
+
+model-00023-0.06841-0.98962-0.32275-0.91667.h5 : https://drive.google.com/open?id=1N5nmzW6bzbVtClFT2S5azw1ucOUQpwTq
 model-00039-0.43407-0.86851-0.64222-0.81667.h5 : https://drive.google.com/open?id=1VIIWEaz063OEk_xQrHWhr_G-HAPEcUY
 
 CNN-3D:
